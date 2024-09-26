@@ -1,0 +1,35 @@
+.app {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #020e06;
+  margin-bottom: 40px;
+}
+
+.card-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+@media (max-width: 768px) {
+  .card {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .card-grid {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+body {
+  background-color: #0c9cdf; /* Light blue for a globe-like theme */
+  font-family: 'Arial', sans-serif;
+  color: #020f14; /* Darker text for better contrast */
+}
