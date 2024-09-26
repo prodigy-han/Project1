@@ -33,7 +33,7 @@ Formatting the cards and buttons. Pushing the code to VS code. I've learned to d
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Han Htoo Satt]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
